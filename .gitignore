@@ -1,0 +1,7 @@
+.env
+
+# Ignorar diretórios de ambientes virtuais Python
+.venv/
+env/
+venv/
+ENV/
